@@ -27,6 +27,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
     ["wow","boy","am",1,"girl",2]
+    array[2]
 end
 
 def retrieve_first_element_from_array(array)
